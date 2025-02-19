@@ -2,23 +2,21 @@ name: Process Plugin Submission
 
 on:
   issues:
-    types: [opened]
-  issue_comment:
-    types: [created]
+    types: [opened, labeled]
 
 jobs:
   process-submission:
     name: Process Plugin Submission
     runs-on: ubuntu-latest
     if: |
-      (github.event_name == 'issues' && contains(github.event.issue.title, '[Plugin Submission]')) ||
-      (github.event_name == 'issue_comment' && contains(github.event.comment.body, '/approve') && github.event.comment.user.login == 'koraykoska')
+      (github.event_name == 'issues' && github.event.action == 'opened' && contains(github.event.issue.title, '[Plugin Submission]')) ||
+      (github.event_name == 'issues' && github.event.action == 'labeled' && github.event.label.name == 'approved')
     
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
       
       - name: Check Issue Format
-        if: github.event_name == 'issues'
+        if: github.event.action == 'opened'
         id: check-format
         run: |
           BODY="${{ github.event.issue.body }}"
@@ -34,7 +32,7 @@ jobs:
             
             I've detected the repository URL: $REPO_URL
             
-            A maintainer will review your submission and approve it by commenting '/approve'.
+            A maintainer will review your submission and approve it by adding the 'approved' label.
             
             Please ensure your repository:
             - [ ] Has a valid plugin.json file in the main branch
@@ -52,7 +50,7 @@ jobs:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Process Approved Submission
-        if: github.event_name == 'issue_comment' && contains(github.event.comment.body, '/approve')
+        if: github.event.action == 'labeled' && github.event.label.name == 'approved'
         run: |
           # Get the issue body
           ISSUE_BODY=$(gh issue view ${{ github.event.issue.number }} --json body -q .body)

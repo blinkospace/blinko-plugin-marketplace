@@ -3,6 +3,7 @@ import { join } from 'path';
 import { load } from 'js-yaml';
 
 async function updatePluginsIndex() {
+  console.log('Updating plugins index...');
   const pluginsDir = './plugins';
   const files = await readdir(pluginsDir);
   const plugins: any[] = [];
@@ -27,7 +28,6 @@ async function updatePluginsIndex() {
         }
 
         const releases = await releasesResponse.json();
-        console.log('Releases:', releases);
         const totalDownloads = Array.isArray(releases) ? releases.reduce((total: number, release: any) => {
           const assets = Array.isArray(release.assets) ? release.assets : [];
           return total + assets.reduce((assetTotal: number, asset: any) => {
