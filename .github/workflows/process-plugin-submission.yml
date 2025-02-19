@@ -80,6 +80,6 @@ jobs:
           gh issue close ${{ github.event.issue.number }} --comment "Plugin has been added successfully! Thank you for your contribution."
           
           # Trigger update-plugins workflow
-          # gh workflow run update-plugins.yml
+          gh workflow run update-plugins.yml
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }} 
