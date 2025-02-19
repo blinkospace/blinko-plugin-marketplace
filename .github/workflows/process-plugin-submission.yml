@@ -11,6 +11,10 @@ jobs:
     if: |
       (github.event_name == 'issues' && github.event.action == 'opened' && contains(github.event.issue.title, '[Plugin Submission]')) ||
       (github.event_name == 'issues' && github.event.action == 'labeled' && github.event.label.name == 'approved')
+    permissions:
+      contents: write
+      issues: write
+      actions: write
     
     steps:
       - uses: actions/checkout@v4
@@ -74,5 +78,8 @@ jobs:
           
           # Close the issue
           gh issue close ${{ github.event.issue.number }} --comment "Plugin has been added successfully! Thank you for your contribution."
+          
+          # Trigger update-plugins workflow
+          gh workflow run update-plugins.yml
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }} 
