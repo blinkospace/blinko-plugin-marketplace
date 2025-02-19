@@ -59,6 +59,9 @@ jobs:
           REPO_URL=$(echo "$ISSUE_BODY" | grep -o 'https://github.com/[a-zA-Z0-9_-]*/[a-zA-Z0-9_-]*' | head -1)
           REPO_NAME=$(echo $REPO_URL | awk -F'/' '{print $NF}')
           
+          # Create plugins directory if it doesn't exist
+          mkdir -p plugins
+          
           # Create or update plugin YAML file
           echo "url: $REPO_URL" > "plugins/${REPO_NAME}.yml"
           
