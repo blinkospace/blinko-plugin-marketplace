@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "js-yaml": "^4.1.0"
+  },
+  "type": "module",
+  "devDependencies": {
+    "@types/node": "^22.13.4"
+  }
+}

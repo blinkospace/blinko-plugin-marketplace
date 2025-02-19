@@ -1,0 +1,32 @@
+name: Update Plugins Index
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  
+  workflow_dispatch:    
+
+jobs:
+  update-index:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Setup Bun
+        uses: oven-sh/setup-bun@v1
+        with:
+          bun-version: latest
+          
+      - name: Install dependencies
+        run: bun install js-yaml
+
+      - name: Run update script
+        run: bun run scripts/index.ts
+
+      - name: Commit changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add index.json
+          git diff --quiet && git diff --staged --quiet || git commit -m "chore: update plugins index"
+          git push 

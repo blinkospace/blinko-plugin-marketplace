@@ -1,0 +1,13 @@
+{
+  "action": "created",
+  "issue": {
+    "number": 1,
+    "body": "Plugin repository: https://github.com/blinko-space/blinko-plugin-template"
+  },
+  "comment": {
+    "body": "/approve",
+    "user": {
+      "login": "koraykoska"
+    }
+  }
+} 

@@ -1,0 +1,11 @@
+{
+  "action": "opened",
+  "issue": {
+    "number": 1,
+    "title": "[Plugin Submission] Test Plugin",
+    "body": "Plugin repository: https://github.com/blinko-space/blinko-plugin-template",
+    "user": {
+      "login": "test-user"
+    }
+  }
+} 
