@@ -3,7 +3,7 @@
     "name": "blinko-plugin-demo",
     "author": "blinko-offical",
     "url": "https://github.com/blinko-space/blinko-plugin-template",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "minAppVersion": "0.0.0",
     "displayName": {
       "default": "Blinko plugin demo",
