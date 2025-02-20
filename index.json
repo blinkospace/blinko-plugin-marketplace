@@ -3,19 +3,19 @@
     "name": "blinko-plugin-demo",
     "author": "blinko-offical",
     "url": "https://github.com/blinko-space/blinko-plugin-template",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "minAppVersion": "0.0.0",
     "displayName": {
       "default": "Blinko plugin demo",
-      "zh_CN": "Blinko插件示例"
+      "zh": "Blinko插件示例"
     },
     "description": {
-      "default": "a blinko plugin demo",
-      "zh_CN": "一个blinko插件示例"
+      "default": "This is a blinko plugin demo, you can use it as a template to create your own plugin.",
+      "zh": "这是一个blinko插件示例，你可以使用它作为模板来创建自己的插件。"
     },
     "readme": {
       "default": "README.md",
-      "zh_CN": "README_zh_CN.md"
+      "zh": "README_zh.md"
     },
     "downloads": 6
   }
