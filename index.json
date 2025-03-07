@@ -36,7 +36,7 @@
     "readme": {
       "default": "README.md"
     },
-    "downloads": 109
+    "downloads": 110
   },
   {
     "name": "blinko-plugin-demo",
@@ -56,6 +56,6 @@
       "default": "README.md",
       "zh": "README_zh.md"
     },
-    "downloads": 37
+    "downloads": 38
   }
 ]
