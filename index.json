@@ -1,5 +1,25 @@
 [
   {
+    "name": "blinko-generate-share-image",
+    "author": "blinko-offical",
+    "url": "https://github.com/blinko-space/blinko-plugin-template",
+    "version": "0.0.1",
+    "minAppVersion": "0.0.0",
+    "displayName": {
+      "default": "Generate share image",
+      "zh": "生成分享图片"
+    },
+    "description": {
+      "default": "Use for right-click notes to generate sharing diagrams.",
+      "zh": "用于右键笔记生成分享图"
+    },
+    "readme": {
+      "default": "README.md",
+      "zh": "README_zh.md"
+    },
+    "downloads": 0
+  },
+  {
     "name": "blinko-copy-private-link",
     "author": "blinko-offical",
     "url": "https://github.com/blinko-space/blinko-plugin-copy-private-link",
@@ -16,7 +36,7 @@
     "readme": {
       "default": "README.md"
     },
-    "downloads": 108
+    "downloads": 109
   },
   {
     "name": "blinko-plugin-demo",
