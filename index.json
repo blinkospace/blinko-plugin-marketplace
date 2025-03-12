@@ -17,7 +17,7 @@
       "default": "README.md",
       "zh": "README_zh.md"
     },
-    "downloads": 45
+    "downloads": 56
   },
   {
     "name": "blinko-copy-private-link",
@@ -36,7 +36,7 @@
     "readme": {
       "default": "README.md"
     },
-    "downloads": 130
+    "downloads": 139
   },
   {
     "name": "blinko-plugin-demo",
@@ -56,6 +56,6 @@
       "default": "README.md",
       "zh": "README_zh.md"
     },
-    "downloads": 57
+    "downloads": 59
   }
 ]
