@@ -17,13 +17,13 @@
       "default": "README.md",
       "zh": "README_zh.md"
     },
-    "downloads": 11
+    "downloads": 15
   },
   {
     "name": "generate-share-image",
     "author": "blinko-offical",
     "url": "https://github.com/blinko-space/generate-share-image",
-    "version": "0.0.2",
+    "version": "0.0.5",
     "minAppVersion": "0.0.0",
     "displayName": {
       "default": "Generate share image",
@@ -37,7 +37,7 @@
       "default": "README.md",
       "zh": "README_zh.md"
     },
-    "downloads": 103
+    "downloads": 107
   },
   {
     "name": "blinko-copy-private-link",
@@ -56,7 +56,7 @@
     "readme": {
       "default": "README.md"
     },
-    "downloads": 171
+    "downloads": 173
   },
   {
     "name": "blinko-plugin-demo",
