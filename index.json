@@ -97,5 +97,25 @@
       "zh": "README_zh.md"
     },
     "downloads": 87
+  },
+  {
+    "name": "blinko-toolbar-map",
+    "author": "blinko-offical",
+    "url": "https://github.com/blinko-space/blinko-toolbar-map",
+    "version": "0.0.1",
+    "minAppVersion": "0.45.3",
+    "displayName": {
+      "default": "Blinko Toolbar Map",
+      "zh": "Blinko 工具栏地图"
+    },
+    "description": {
+      "default": "This is a blinko plugin for map, you can use it to insert map location points.",
+      "zh": "这是一个blinko插件，你可以使用它来插入地图定位点"
+    },
+    "readme": {
+      "default": "README.md",
+      "zh": "README_zh.md"
+    },
+    "downloads": 0
   }
 ]
