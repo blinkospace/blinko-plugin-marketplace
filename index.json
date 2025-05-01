@@ -17,7 +17,7 @@
       "default": "README.md",
       "zh": "README_zh.md"
     },
-    "downloads": 346
+    "downloads": 355
   },
   {
     "name": "generate-share-image",
@@ -37,7 +37,26 @@
       "default": "README.md",
       "zh": "README_zh.md"
     },
-    "downloads": 448
+    "downloads": 456
+  },
+  {
+    "name": "blinko-copy-private-link",
+    "author": "blinko-offical",
+    "url": "https://github.com/blinko-space/blinko-plugin-copy-private-link",
+    "version": "0.0.2",
+    "minAppVersion": "0.39.0",
+    "displayName": {
+      "default": "Copy Private Link",
+      "zh": "右键复制私有链接"
+    },
+    "description": {
+      "default": "add right click menu to copy private link",
+      "zh": "增加右键菜单，用于复制私有链接"
+    },
+    "readme": {
+      "default": "README.md"
+    },
+    "downloads": 417
   },
   {
     "name": "blinko-tag-clean",
@@ -57,7 +76,7 @@
       "default": "README.md",
       "zh": "README_zh.md"
     },
-    "downloads": 201
+    "downloads": 207
   },
   {
     "name": "blinko-plugin-demo",
@@ -77,6 +96,26 @@
       "default": "README.md",
       "zh": "README_zh.md"
     },
-    "downloads": 145
+    "downloads": 147
+  },
+  {
+    "name": "blinko-toolbar-map",
+    "author": "blinko-offical",
+    "url": "https://github.com/blinko-space/blinko-toolbar-map",
+    "version": "0.0.1",
+    "minAppVersion": "0.45.3",
+    "displayName": {
+      "default": "Blinko Toolbar Map",
+      "zh": "Blinko 工具栏地图"
+    },
+    "description": {
+      "default": "This is a blinko plugin for map, you can use it to insert map location points.",
+      "zh": "这是一个blinko插件，你可以使用它来插入地图定位点"
+    },
+    "readme": {
+      "default": "README.md",
+      "zh": "README_zh.md"
+    },
+    "downloads": 275
   }
 ]
