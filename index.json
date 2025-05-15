@@ -1,5 +1,25 @@
 [
   {
+    "name": "blinko-plugin-demo",
+    "author": "blinko-offical",
+    "url": "https://github.com/blinko-space/blinko-plugin-template",
+    "version": "0.0.4",
+    "minAppVersion": "0.0.0",
+    "displayName": {
+      "default": "Blinko plugin demo",
+      "zh": "Blinko插件示例"
+    },
+    "description": {
+      "default": "This is a blinko plugin demo, you can use it as a template to create your own plugin.",
+      "zh": "这是一个blinko插件示例，你可以使用它作为模板来创建自己的插件。"
+    },
+    "readme": {
+      "default": "README.md",
+      "zh": "README_zh.md"
+    },
+    "downloads": 184
+  },
+  {
     "name": "blinko-toolbar-map",
     "author": "blinko-offical",
     "url": "https://github.com/blinko-space/blinko-toolbar-map",
@@ -17,7 +37,7 @@
       "default": "README.md",
       "zh": "README_zh.md"
     },
-    "downloads": 358
+    "downloads": 363
   },
   {
     "name": "generate-share-image",
@@ -37,46 +57,7 @@
       "default": "README.md",
       "zh": "README_zh.md"
     },
-    "downloads": 542
-  },
-  {
-    "name": "blinko-copy-private-link",
-    "author": "blinko-offical",
-    "url": "https://github.com/blinko-space/blinko-plugin-copy-private-link",
-    "version": "0.0.2",
-    "minAppVersion": "0.39.0",
-    "displayName": {
-      "default": "Copy Private Link",
-      "zh": "右键复制私有链接"
-    },
-    "description": {
-      "default": "add right click menu to copy private link",
-      "zh": "增加右键菜单，用于复制私有链接"
-    },
-    "readme": {
-      "default": "README.md"
-    },
-    "downloads": 486
-  },
-  {
-    "name": "blinko-plugin-demo",
-    "author": "blinko-offical",
-    "url": "https://github.com/blinko-space/blinko-plugin-template",
-    "version": "0.0.4",
-    "minAppVersion": "0.0.0",
-    "displayName": {
-      "default": "Blinko plugin demo",
-      "zh": "Blinko插件示例"
-    },
-    "description": {
-      "default": "This is a blinko plugin demo, you can use it as a template to create your own plugin.",
-      "zh": "这是一个blinko插件示例，你可以使用它作为模板来创建自己的插件。"
-    },
-    "readme": {
-      "default": "README.md",
-      "zh": "README_zh.md"
-    },
-    "downloads": 183
+    "downloads": 545
   },
   {
     "name": "blinko-tag-clean",
@@ -96,7 +77,26 @@
       "default": "README.md",
       "zh": "README_zh.md"
     },
-    "downloads": 264
+    "downloads": 268
+  },
+  {
+    "name": "blinko-copy-private-link",
+    "author": "blinko-offical",
+    "url": "https://github.com/blinko-space/blinko-plugin-copy-private-link",
+    "version": "0.0.2",
+    "minAppVersion": "0.39.0",
+    "displayName": {
+      "default": "Copy Private Link",
+      "zh": "右键复制私有链接"
+    },
+    "description": {
+      "default": "add right click menu to copy private link",
+      "zh": "增加右键菜单，用于复制私有链接"
+    },
+    "readme": {
+      "default": "README.md"
+    },
+    "downloads": 489
   },
   {
     "name": "blinko-image-compressor",
@@ -116,6 +116,6 @@
       "default": "README.md",
       "zh": "README_zh.md"
     },
-    "downloads": 434
+    "downloads": 438
   }
 ]
