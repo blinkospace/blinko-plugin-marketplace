@@ -17,7 +17,7 @@
       "default": "README.md",
       "zh": "README_zh.md"
     },
-    "downloads": 187
+    "downloads": 190
   },
   {
     "name": "blinko-toolbar-map",
@@ -37,27 +37,7 @@
       "default": "README.md",
       "zh": "README_zh.md"
     },
-    "downloads": 370
-  },
-  {
-    "name": "generate-share-image",
-    "author": "blinko-offical",
-    "url": "https://github.com/blinko-space/generate-share-image",
-    "version": "0.0.6",
-    "minAppVersion": "0.0.0",
-    "displayName": {
-      "default": "Generate share image",
-      "zh": "生成分享图片"
-    },
-    "description": {
-      "default": "Use for right-click notes to generate sharing diagrams.",
-      "zh": "用于右键笔记生成分享图"
-    },
-    "readme": {
-      "default": "README.md",
-      "zh": "README_zh.md"
-    },
-    "downloads": 550
+    "downloads": 379
   },
   {
     "name": "blinko-tag-clean",
@@ -77,7 +57,7 @@
       "default": "README.md",
       "zh": "README_zh.md"
     },
-    "downloads": 272
+    "downloads": 280
   },
   {
     "name": "blinko-copy-private-link",
@@ -96,7 +76,7 @@
     "readme": {
       "default": "README.md"
     },
-    "downloads": 492
+    "downloads": 496
   },
   {
     "name": "blinko-image-compressor",
@@ -116,6 +96,6 @@
       "default": "README.md",
       "zh": "README_zh.md"
     },
-    "downloads": 443
+    "downloads": 450
   }
 ]
