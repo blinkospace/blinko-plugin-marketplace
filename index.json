@@ -1,82 +1,23 @@
 [
   {
-    "name": "blinko-image-compressor",
-    "author": "jooooody",
-    "url": "https://github.com/GreenHatHG/blinko-image-compressor",
+    "name": "blinko-toolbar-map",
+    "author": "blinko-offical",
+    "url": "https://github.com/blinko-space/blinko-toolbar-map",
     "version": "0.0.1",
-    "minAppVersion": "0.0.0",
+    "minAppVersion": "0.45.3",
     "displayName": {
-      "default": "Blinko Image Compressor",
-      "zh": "Blinko图片压缩器"
+      "default": "Blinko Toolbar Map",
+      "zh": "Blinko 工具栏地图"
     },
     "description": {
-      "default": "Automatically compress images when uploading to save storage space and bandwidth. Access compression settings through the plugin settings panel.",
-      "zh": "上传图片时自动压缩，节省存储空间和带宽。通过插件设置面板访问压缩设置。"
+      "default": "This is a blinko plugin for map, you can use it to insert map location points.",
+      "zh": "这是一个blinko插件，你可以使用它来插入地图定位点"
     },
     "readme": {
       "default": "README.md",
       "zh": "README_zh.md"
     },
-    "downloads": 572
-  },
-  {
-    "name": "generate-share-image",
-    "author": "blinko-offical",
-    "url": "https://github.com/blinko-space/generate-share-image",
-    "version": "0.0.6",
-    "minAppVersion": "0.0.0",
-    "displayName": {
-      "default": "Generate share image",
-      "zh": "生成分享图片"
-    },
-    "description": {
-      "default": "Use for right-click notes to generate sharing diagrams.",
-      "zh": "用于右键笔记生成分享图"
-    },
-    "readme": {
-      "default": "README.md",
-      "zh": "README_zh.md"
-    },
-    "downloads": 679
-  },
-  {
-    "name": "blinko-tag-clean",
-    "author": "VictorHong",
-    "url": "https://github.com/redisread/blinko-tag-clean",
-    "version": "1.0.0",
-    "minAppVersion": "0.0.0",
-    "displayName": {
-      "default": "Tag Cleaner",
-      "zh": "右键标签清理"
-    },
-    "description": {
-      "default": "A plugin that helps you clean tags from notes with right-click menu support.",
-      "zh": "一个帮助你通过右键菜单快速清理笔记标签的插件。"
-    },
-    "readme": {
-      "default": "README.md",
-      "zh": "README_zh.md"
-    },
-    "downloads": 381
-  },
-  {
-    "name": "blinko-copy-private-link",
-    "author": "blinko-offical",
-    "url": "https://github.com/blinko-space/blinko-plugin-copy-private-link",
-    "version": "0.0.2",
-    "minAppVersion": "0.39.0",
-    "displayName": {
-      "default": "Copy Private Link",
-      "zh": "右键复制私有链接"
-    },
-    "description": {
-      "default": "add right click menu to copy private link",
-      "zh": "增加右键菜单，用于复制私有链接"
-    },
-    "readme": {
-      "default": "README.md"
-    },
-    "downloads": 586
+    "downloads": 519
   },
   {
     "name": "blinko-plugin-demo",
@@ -96,26 +37,85 @@
       "default": "README.md",
       "zh": "README_zh.md"
     },
-    "downloads": 238
+    "downloads": 240
   },
   {
-    "name": "blinko-toolbar-map",
-    "author": "blinko-offical",
-    "url": "https://github.com/blinko-space/blinko-toolbar-map",
+    "name": "blinko-image-compressor",
+    "author": "jooooody",
+    "url": "https://github.com/GreenHatHG/blinko-image-compressor",
     "version": "0.0.1",
-    "minAppVersion": "0.45.3",
+    "minAppVersion": "0.0.0",
     "displayName": {
-      "default": "Blinko Toolbar Map",
-      "zh": "Blinko 工具栏地图"
+      "default": "Blinko Image Compressor",
+      "zh": "Blinko图片压缩器"
     },
     "description": {
-      "default": "This is a blinko plugin for map, you can use it to insert map location points.",
-      "zh": "这是一个blinko插件，你可以使用它来插入地图定位点"
+      "default": "Automatically compress images when uploading to save storage space and bandwidth. Access compression settings through the plugin settings panel.",
+      "zh": "上传图片时自动压缩，节省存储空间和带宽。通过插件设置面板访问压缩设置。"
     },
     "readme": {
       "default": "README.md",
       "zh": "README_zh.md"
     },
-    "downloads": 514
+    "downloads": 579
+  },
+  {
+    "name": "generate-share-image",
+    "author": "blinko-offical",
+    "url": "https://github.com/blinko-space/generate-share-image",
+    "version": "0.0.6",
+    "minAppVersion": "0.0.0",
+    "displayName": {
+      "default": "Generate share image",
+      "zh": "生成分享图片"
+    },
+    "description": {
+      "default": "Use for right-click notes to generate sharing diagrams.",
+      "zh": "用于右键笔记生成分享图"
+    },
+    "readme": {
+      "default": "README.md",
+      "zh": "README_zh.md"
+    },
+    "downloads": 686
+  },
+  {
+    "name": "blinko-tag-clean",
+    "author": "VictorHong",
+    "url": "https://github.com/redisread/blinko-tag-clean",
+    "version": "1.0.0",
+    "minAppVersion": "0.0.0",
+    "displayName": {
+      "default": "Tag Cleaner",
+      "zh": "右键标签清理"
+    },
+    "description": {
+      "default": "A plugin that helps you clean tags from notes with right-click menu support.",
+      "zh": "一个帮助你通过右键菜单快速清理笔记标签的插件。"
+    },
+    "readme": {
+      "default": "README.md",
+      "zh": "README_zh.md"
+    },
+    "downloads": 386
+  },
+  {
+    "name": "blinko-copy-private-link",
+    "author": "blinko-offical",
+    "url": "https://github.com/blinko-space/blinko-plugin-copy-private-link",
+    "version": "0.0.2",
+    "minAppVersion": "0.39.0",
+    "displayName": {
+      "default": "Copy Private Link",
+      "zh": "右键复制私有链接"
+    },
+    "description": {
+      "default": "add right click menu to copy private link",
+      "zh": "增加右键菜单，用于复制私有链接"
+    },
+    "readme": {
+      "default": "README.md"
+    },
+    "downloads": 591
   }
 ]
