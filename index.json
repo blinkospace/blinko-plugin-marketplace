@@ -17,7 +17,7 @@
       "default": "README.md",
       "zh": "README_zh.md"
     },
-    "downloads": 657
+    "downloads": 661
   },
   {
     "name": "blinko-plugin-demo",
@@ -77,7 +77,7 @@
       "default": "README.md",
       "zh": "README_zh.md"
     },
-    "downloads": 795
+    "downloads": 797
   },
   {
     "name": "blinko-tag-clean",
