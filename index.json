@@ -17,7 +17,7 @@
       "default": "README.md",
       "zh": "README_zh.md"
     },
-    "downloads": 661
+    "downloads": 664
   },
   {
     "name": "blinko-plugin-demo",
@@ -37,7 +37,7 @@
       "default": "README.md",
       "zh": "README_zh.md"
     },
-    "downloads": 295
+    "downloads": 297
   },
   {
     "name": "blinko-image-compressor",
@@ -57,7 +57,7 @@
       "default": "README.md",
       "zh": "README_zh.md"
     },
-    "downloads": 698
+    "downloads": 700
   },
   {
     "name": "generate-share-image",
@@ -77,7 +77,7 @@
       "default": "README.md",
       "zh": "README_zh.md"
     },
-    "downloads": 797
+    "downloads": 799
   },
   {
     "name": "blinko-tag-clean",
@@ -97,7 +97,7 @@
       "default": "README.md",
       "zh": "README_zh.md"
     },
-    "downloads": 479
+    "downloads": 482
   },
   {
     "name": "blinko-copy-private-link",
@@ -116,6 +116,6 @@
     "readme": {
       "default": "README.md"
     },
-    "downloads": 681
+    "downloads": 684
   }
 ]
