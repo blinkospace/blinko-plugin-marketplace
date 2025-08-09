@@ -1,63 +1,23 @@
 [
   {
-    "name": "blinko-toolbar-map",
-    "author": "blinko-offical",
-    "url": "https://github.com/blinko-space/blinko-toolbar-map",
-    "version": "0.0.1",
-    "minAppVersion": "0.45.3",
-    "displayName": {
-      "default": "Blinko Toolbar Map",
-      "zh": "Blinko 工具栏地图"
-    },
-    "description": {
-      "default": "This is a blinko plugin for map, you can use it to insert map location points.",
-      "zh": "这是一个blinko插件，你可以使用它来插入地图定位点"
-    },
-    "readme": {
-      "default": "README.md",
-      "zh": "README_zh.md"
-    },
-    "downloads": 996
-  },
-  {
-    "name": "blinko-image-compressor",
-    "author": "jooooody",
-    "url": "https://github.com/GreenHatHG/blinko-image-compressor",
-    "version": "0.0.1",
+    "name": "blinko-tag-clean",
+    "author": "VictorHong",
+    "url": "https://github.com/redisread/blinko-tag-clean",
+    "version": "1.0.0",
     "minAppVersion": "0.0.0",
     "displayName": {
-      "default": "Blinko Image Compressor",
-      "zh": "Blinko图片压缩器"
+      "default": "Tag Cleaner",
+      "zh": "右键标签清理"
     },
     "description": {
-      "default": "Automatically compress images when uploading to save storage space and bandwidth. Access compression settings through the plugin settings panel.",
-      "zh": "上传图片时自动压缩，节省存储空间和带宽。通过插件设置面板访问压缩设置。"
+      "default": "A plugin that helps you clean tags from notes with right-click menu support.",
+      "zh": "一个帮助你通过右键菜单快速清理笔记标签的插件。"
     },
     "readme": {
       "default": "README.md",
       "zh": "README_zh.md"
     },
-    "downloads": 935
-  },
-  {
-    "name": "blinko-plugin-demo",
-    "author": "blinko-offical",
-    "url": "https://github.com/blinko-space/blinko-plugin-template",
-    "version": "0.0.4",
-    "minAppVersion": "0.0.0",
-    "displayName": {
-      "default": "Blinko plugin demo",
-      "zh": "Blinko插件示例"
-    },
-    "description": {
-      "default": "This is a blinko plugin demo, you can use it as a template to create your own plugin.",
-      "zh": "这是一个blinko插件示例，你可以使用它作为模板来创建自己的插件。"
-    },
-    "readme": {
-      "default": "README.md",
-      "zh": "README_zh.md"
-    },
-    "downloads": 380
+    "downloads": 722
   },
   {
     "name": "generate-share-image",
@@ -77,7 +37,47 @@
       "default": "README.md",
       "zh": "README_zh.md"
     },
-    "downloads": 1050
+    "downloads": 1055
+  },
+  {
+    "name": "blinko-toolbar-map",
+    "author": "blinko-offical",
+    "url": "https://github.com/blinko-space/blinko-toolbar-map",
+    "version": "0.0.1",
+    "minAppVersion": "0.45.3",
+    "displayName": {
+      "default": "Blinko Toolbar Map",
+      "zh": "Blinko 工具栏地图"
+    },
+    "description": {
+      "default": "This is a blinko plugin for map, you can use it to insert map location points.",
+      "zh": "这是一个blinko插件，你可以使用它来插入地图定位点"
+    },
+    "readme": {
+      "default": "README.md",
+      "zh": "README_zh.md"
+    },
+    "downloads": 1004
+  },
+  {
+    "name": "blinko-plugin-demo",
+    "author": "blinko-offical",
+    "url": "https://github.com/blinko-space/blinko-plugin-template",
+    "version": "0.0.4",
+    "minAppVersion": "0.0.0",
+    "displayName": {
+      "default": "Blinko plugin demo",
+      "zh": "Blinko插件示例"
+    },
+    "description": {
+      "default": "This is a blinko plugin demo, you can use it as a template to create your own plugin.",
+      "zh": "这是一个blinko插件示例，你可以使用它作为模板来创建自己的插件。"
+    },
+    "readme": {
+      "default": "README.md",
+      "zh": "README_zh.md"
+    },
+    "downloads": 383
   },
   {
     "name": "blinko-copy-private-link",
@@ -96,26 +96,26 @@
     "readme": {
       "default": "README.md"
     },
-    "downloads": 894
+    "downloads": 898
   },
   {
-    "name": "blinko-tag-clean",
-    "author": "VictorHong",
-    "url": "https://github.com/redisread/blinko-tag-clean",
-    "version": "1.0.0",
+    "name": "blinko-image-compressor",
+    "author": "jooooody",
+    "url": "https://github.com/GreenHatHG/blinko-image-compressor",
+    "version": "0.0.1",
     "minAppVersion": "0.0.0",
     "displayName": {
-      "default": "Tag Cleaner",
-      "zh": "右键标签清理"
+      "default": "Blinko Image Compressor",
+      "zh": "Blinko图片压缩器"
     },
     "description": {
-      "default": "A plugin that helps you clean tags from notes with right-click menu support.",
-      "zh": "一个帮助你通过右键菜单快速清理笔记标签的插件。"
+      "default": "Automatically compress images when uploading to save storage space and bandwidth. Access compression settings through the plugin settings panel.",
+      "zh": "上传图片时自动压缩，节省存储空间和带宽。通过插件设置面板访问压缩设置。"
     },
     "readme": {
       "default": "README.md",
       "zh": "README_zh.md"
     },
-    "downloads": 718
+    "downloads": 944
   }
 ]
