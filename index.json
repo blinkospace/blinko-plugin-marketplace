@@ -1,65 +1,5 @@
 [
   {
-    "name": "blinko-tag-clean",
-    "author": "VictorHong",
-    "url": "https://github.com/redisread/blinko-tag-clean",
-    "version": "1.0.0",
-    "minAppVersion": "0.0.0",
-    "displayName": {
-      "default": "Tag Cleaner",
-      "zh": "右键标签清理"
-    },
-    "description": {
-      "default": "A plugin that helps you clean tags from notes with right-click menu support.",
-      "zh": "一个帮助你通过右键菜单快速清理笔记标签的插件。"
-    },
-    "readme": {
-      "default": "README.md",
-      "zh": "README_zh.md"
-    },
-    "downloads": 815
-  },
-  {
-    "name": "generate-share-image",
-    "author": "blinko-offical",
-    "url": "https://github.com/blinko-space/generate-share-image",
-    "version": "0.0.6",
-    "minAppVersion": "0.0.0",
-    "displayName": {
-      "default": "Generate share image",
-      "zh": "生成分享图片"
-    },
-    "description": {
-      "default": "Use for right-click notes to generate sharing diagrams.",
-      "zh": "用于右键笔记生成分享图"
-    },
-    "readme": {
-      "default": "README.md",
-      "zh": "README_zh.md"
-    },
-    "downloads": 1157
-  },
-  {
-    "name": "blinko-toolbar-map",
-    "author": "blinko-offical",
-    "url": "https://github.com/blinko-space/blinko-toolbar-map",
-    "version": "0.0.1",
-    "minAppVersion": "0.45.3",
-    "displayName": {
-      "default": "Blinko Toolbar Map",
-      "zh": "Blinko 工具栏地图"
-    },
-    "description": {
-      "default": "This is a blinko plugin for map, you can use it to insert map location points.",
-      "zh": "这是一个blinko插件，你可以使用它来插入地图定位点"
-    },
-    "readme": {
-      "default": "README.md",
-      "zh": "README_zh.md"
-    },
-    "downloads": 1104
-  },
-  {
     "name": "blinko-plugin-demo",
     "author": "blinko-offical",
     "url": "https://github.com/blinko-space/blinko-plugin-template",
@@ -80,6 +20,26 @@
     "downloads": 425
   },
   {
+    "name": "blinko-tag-clean",
+    "author": "VictorHong",
+    "url": "https://github.com/redisread/blinko-tag-clean",
+    "version": "1.0.0",
+    "minAppVersion": "0.0.0",
+    "displayName": {
+      "default": "Tag Cleaner",
+      "zh": "右键标签清理"
+    },
+    "description": {
+      "default": "A plugin that helps you clean tags from notes with right-click menu support.",
+      "zh": "一个帮助你通过右键菜单快速清理笔记标签的插件。"
+    },
+    "readme": {
+      "default": "README.md",
+      "zh": "README_zh.md"
+    },
+    "downloads": 821
+  },
+  {
     "name": "blinko-copy-private-link",
     "author": "blinko-offical",
     "url": "https://github.com/blinko-space/blinko-plugin-copy-private-link",
@@ -96,7 +56,47 @@
     "readme": {
       "default": "README.md"
     },
-    "downloads": 970
+    "downloads": 976
+  },
+  {
+    "name": "generate-share-image",
+    "author": "blinko-offical",
+    "url": "https://github.com/blinko-space/generate-share-image",
+    "version": "0.0.6",
+    "minAppVersion": "0.0.0",
+    "displayName": {
+      "default": "Generate share image",
+      "zh": "生成分享图片"
+    },
+    "description": {
+      "default": "Use for right-click notes to generate sharing diagrams.",
+      "zh": "用于右键笔记生成分享图"
+    },
+    "readme": {
+      "default": "README.md",
+      "zh": "README_zh.md"
+    },
+    "downloads": 1163
+  },
+  {
+    "name": "blinko-toolbar-map",
+    "author": "blinko-offical",
+    "url": "https://github.com/blinko-space/blinko-toolbar-map",
+    "version": "0.0.1",
+    "minAppVersion": "0.45.3",
+    "displayName": {
+      "default": "Blinko Toolbar Map",
+      "zh": "Blinko 工具栏地图"
+    },
+    "description": {
+      "default": "This is a blinko plugin for map, you can use it to insert map location points.",
+      "zh": "这是一个blinko插件，你可以使用它来插入地图定位点"
+    },
+    "readme": {
+      "default": "README.md",
+      "zh": "README_zh.md"
+    },
+    "downloads": 1114
   },
   {
     "name": "blinko-image-compressor",
@@ -116,6 +116,6 @@
       "default": "README.md",
       "zh": "README_zh.md"
     },
-    "downloads": 1036
+    "downloads": 1041
   }
 ]
