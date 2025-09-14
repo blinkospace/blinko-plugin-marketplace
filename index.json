@@ -37,7 +37,7 @@
       "default": "README.md",
       "zh": "README_zh.md"
     },
-    "downloads": 895
+    "downloads": 896
   },
   {
     "name": "blinko-copy-private-link",
@@ -56,7 +56,7 @@
     "readme": {
       "default": "README.md"
     },
-    "downloads": 1037
+    "downloads": 1039
   },
   {
     "name": "generate-share-image",
@@ -76,7 +76,32 @@
       "default": "README.md",
       "zh": "README_zh.md"
     },
-    "downloads": 1247
+    "downloads": 1248
+  },
+  {
+    "name": "blinko-plugin-rtl-support",
+    "author": "Daniel-OS01",
+    "url": "https://github.com/Daniel-OS01/blinko-rtl-support-plugin",
+    "version": "1.0.5",
+    "minAppVersion": "0.0.0",
+    "displayName": {
+      "default": "RTL Language Support",
+      "zh": "RTL语言支持",
+      "he": "תמיכה בשפות מימין לשמאל",
+      "ar": "دعم اللغات من اليمين إلى اليسار"
+    },
+    "description": {
+      "default": "Automatically detects and applies RTL styling for Hebrew, Arabic, and other right-to-left languages in Blinko notes.",
+      "zh": "自动检测并为Blinko笔记中的希伯来语、阿拉伯语和其他从右到左的语言应用RTL样式。",
+      "he": "מזהה אוטומטית ומחיל עיצוב RTL לעברית, ערבית ושפות אחרות מימין לשמאל ברשימות Blinko.",
+      "ar": "يكتشف تلقائياً ويطبق تصميم RTL للعبرية والعربية واللغات الأخرى من اليمين إلى اليسار في ملاحظات Blinko."
+    },
+    "readme": {
+      "default": "README.md",
+      "zh": "README_zh.md",
+      "he": "README_he.md"
+    },
+    "downloads": 4
   },
   {
     "name": "blinko-toolbar-map",
@@ -96,7 +121,7 @@
       "default": "README.md",
       "zh": "README_zh.md"
     },
-    "downloads": 1208
+    "downloads": 1209
   },
   {
     "name": "blinko-image-compressor",
