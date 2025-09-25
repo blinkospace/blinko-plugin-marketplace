@@ -17,7 +17,7 @@
       "default": "README.md",
       "zh": "README_zh.md"
     },
-    "downloads": 494
+    "downloads": 498
   },
   {
     "name": "blinko-tag-clean",
@@ -37,26 +37,7 @@
       "default": "README.md",
       "zh": "README_zh.md"
     },
-    "downloads": 961
-  },
-  {
-    "name": "blinko-copy-private-link",
-    "author": "blinko-offical",
-    "url": "https://github.com/blinko-space/blinko-plugin-copy-private-link",
-    "version": "0.0.2",
-    "minAppVersion": "0.39.0",
-    "displayName": {
-      "default": "Copy Private Link",
-      "zh": "右键复制私有链接"
-    },
-    "description": {
-      "default": "add right click menu to copy private link",
-      "zh": "增加右键菜单，用于复制私有链接"
-    },
-    "readme": {
-      "default": "README.md"
-    },
-    "downloads": 1085
+    "downloads": 976
   },
   {
     "name": "generate-share-image",
@@ -76,7 +57,27 @@
       "default": "README.md",
       "zh": "README_zh.md"
     },
-    "downloads": 1326
+    "downloads": 1339
+  },
+  {
+    "name": "custom-share-domain-plugin",
+    "author": "Manus",
+    "url": "https://github.com/xiaobaiweinuli/custom-share-domain-plugin",
+    "version": "1.0.0",
+    "minAppVersion": "0.0.0",
+    "displayName": {
+      "default": "Custom Share Domain",
+      "zh": "自定义分享域名"
+    },
+    "description": {
+      "default": "A Blinko plugin that allows users to customize share link domains with multi-domain management, domain selection, and default domain settings.",
+      "zh": "一个允许用户自定义分享链接域名的 Blinko 插件，支持多域名管理、域名选择和默认域名设置。"
+    },
+    "readme": {
+      "default": "README.md",
+      "zh": "README_zh.md"
+    },
+    "downloads": 35
   },
   {
     "name": "blinko-plugin-rtl-support",
@@ -101,27 +102,26 @@
       "zh": "README_zh.md",
       "he": "README_he.md"
     },
-    "downloads": 19
+    "downloads": 24
   },
   {
-    "name": "custom-share-domain-plugin",
-    "author": "Manus",
-    "url": "https://github.com/xiaobaiweinuli/custom-share-domain-plugin",
-    "version": "1.0.0",
-    "minAppVersion": "0.0.0",
+    "name": "blinko-copy-private-link",
+    "author": "blinko-offical",
+    "url": "https://github.com/blinko-space/blinko-plugin-copy-private-link",
+    "version": "0.0.2",
+    "minAppVersion": "0.39.0",
     "displayName": {
-      "default": "Custom Share Domain",
-      "zh": "自定义分享域名"
+      "default": "Copy Private Link",
+      "zh": "右键复制私有链接"
     },
     "description": {
-      "default": "A Blinko plugin that allows users to customize share link domains with multi-domain management, domain selection, and default domain settings.",
-      "zh": "一个允许用户自定义分享链接域名的 Blinko 插件，支持多域名管理、域名选择和默认域名设置。"
+      "default": "add right click menu to copy private link",
+      "zh": "增加右键菜单，用于复制私有链接"
     },
     "readme": {
-      "default": "README.md",
-      "zh": "README_zh.md"
+      "default": "README.md"
     },
-    "downloads": 26
+    "downloads": 1095
   },
   {
     "name": "blinko-toolbar-map",
@@ -141,7 +141,7 @@
       "default": "README.md",
       "zh": "README_zh.md"
     },
-    "downloads": 1282
+    "downloads": 1299
   },
   {
     "name": "blinko-image-compressor",
@@ -161,6 +161,6 @@
       "default": "README.md",
       "zh": "README_zh.md"
     },
-    "downloads": 1195
+    "downloads": 1207
   }
 ]
