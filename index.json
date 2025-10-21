@@ -17,66 +17,27 @@
       "default": "README.md",
       "zh": "README_zh.md"
     },
-    "downloads": 571
+    "downloads": 573
   },
   {
-    "name": "blinko-toolbar-map",
-    "author": "blinko-offical",
-    "url": "https://github.com/blinko-space/blinko-toolbar-map",
-    "version": "0.0.1",
-    "minAppVersion": "0.45.3",
-    "displayName": {
-      "default": "Blinko Toolbar Map",
-      "zh": "Blinko 工具栏地图"
-    },
-    "description": {
-      "default": "This is a blinko plugin for map, you can use it to insert map location points.",
-      "zh": "这是一个blinko插件，你可以使用它来插入地图定位点"
-    },
-    "readme": {
-      "default": "README.md",
-      "zh": "README_zh.md"
-    },
-    "downloads": 1503
-  },
-  {
-    "name": "blinko-copy-private-link",
-    "author": "blinko-offical",
-    "url": "https://github.com/blinko-space/blinko-plugin-copy-private-link",
-    "version": "0.0.2",
-    "minAppVersion": "0.39.0",
-    "displayName": {
-      "default": "Copy Private Link",
-      "zh": "右键复制私有链接"
-    },
-    "description": {
-      "default": "add right click menu to copy private link",
-      "zh": "增加右键菜单，用于复制私有链接"
-    },
-    "readme": {
-      "default": "README.md"
-    },
-    "downloads": 1210
-  },
-  {
-    "name": "custom-share-domain-plugin",
-    "author": "Manus",
-    "url": "https://github.com/xiaobaiweinuli/custom-share-domain-plugin",
+    "name": "blinko-tag-clean",
+    "author": "VictorHong",
+    "url": "https://github.com/redisread/blinko-tag-clean",
     "version": "1.0.0",
     "minAppVersion": "0.0.0",
     "displayName": {
-      "default": "Custom Share Domain",
-      "zh": "自定义分享域名"
+      "default": "Tag Cleaner",
+      "zh": "右键标签清理"
     },
     "description": {
-      "default": "A Blinko plugin that allows users to customize share link domains with multi-domain management, domain selection, and default domain settings.",
-      "zh": "一个允许用户自定义分享链接域名的 Blinko 插件，支持多域名管理、域名选择和默认域名设置。"
+      "default": "A plugin that helps you clean tags from notes with right-click menu support.",
+      "zh": "一个帮助你通过右键菜单快速清理笔记标签的插件。"
     },
     "readme": {
       "default": "README.md",
       "zh": "README_zh.md"
     },
-    "downloads": 122
+    "downloads": 1138
   },
   {
     "name": "generate-share-image",
@@ -96,7 +57,27 @@
       "default": "README.md",
       "zh": "README_zh.md"
     },
-    "downloads": 1519
+    "downloads": 1525
+  },
+  {
+    "name": "custom-share-domain-plugin",
+    "author": "Manus",
+    "url": "https://github.com/xiaobaiweinuli/custom-share-domain-plugin",
+    "version": "1.0.0",
+    "minAppVersion": "0.0.0",
+    "displayName": {
+      "default": "Custom Share Domain",
+      "zh": "自定义分享域名"
+    },
+    "description": {
+      "default": "A Blinko plugin that allows users to customize share link domains with multi-domain management, domain selection, and default domain settings.",
+      "zh": "一个允许用户自定义分享链接域名的 Blinko 插件，支持多域名管理、域名选择和默认域名设置。"
+    },
+    "readme": {
+      "default": "README.md",
+      "zh": "README_zh.md"
+    },
+    "downloads": 128
   },
   {
     "name": "blinko-plugin-rtl-support",
@@ -121,27 +102,46 @@
       "zh": "README_zh.md",
       "he": "README_he.md"
     },
-    "downloads": 98
+    "downloads": 99
   },
   {
-    "name": "blinko-tag-clean",
-    "author": "VictorHong",
-    "url": "https://github.com/redisread/blinko-tag-clean",
-    "version": "1.0.0",
-    "minAppVersion": "0.0.0",
+    "name": "blinko-copy-private-link",
+    "author": "blinko-offical",
+    "url": "https://github.com/blinko-space/blinko-plugin-copy-private-link",
+    "version": "0.0.2",
+    "minAppVersion": "0.39.0",
     "displayName": {
-      "default": "Tag Cleaner",
-      "zh": "右键标签清理"
+      "default": "Copy Private Link",
+      "zh": "右键复制私有链接"
     },
     "description": {
-      "default": "A plugin that helps you clean tags from notes with right-click menu support.",
-      "zh": "一个帮助你通过右键菜单快速清理笔记标签的插件。"
+      "default": "add right click menu to copy private link",
+      "zh": "增加右键菜单，用于复制私有链接"
+    },
+    "readme": {
+      "default": "README.md"
+    },
+    "downloads": 1216
+  },
+  {
+    "name": "blinko-toolbar-map",
+    "author": "blinko-offical",
+    "url": "https://github.com/blinko-space/blinko-toolbar-map",
+    "version": "0.0.1",
+    "minAppVersion": "0.45.3",
+    "displayName": {
+      "default": "Blinko Toolbar Map",
+      "zh": "Blinko 工具栏地图"
+    },
+    "description": {
+      "default": "This is a blinko plugin for map, you can use it to insert map location points.",
+      "zh": "这是一个blinko插件，你可以使用它来插入地图定位点"
     },
     "readme": {
       "default": "README.md",
       "zh": "README_zh.md"
     },
-    "downloads": 1133
+    "downloads": 1514
   },
   {
     "name": "blinko-image-compressor",
@@ -161,6 +161,6 @@
       "default": "README.md",
       "zh": "README_zh.md"
     },
-    "downloads": 1368
+    "downloads": 1373
   }
 ]
