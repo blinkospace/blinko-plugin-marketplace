@@ -37,7 +37,7 @@
       "default": "README.md",
       "zh": "README_zh.md"
     },
-    "downloads": 1448
+    "downloads": 1453
   },
   {
     "name": "generate-share-image",
@@ -57,7 +57,7 @@
       "default": "README.md",
       "zh": "README_zh.md"
     },
-    "downloads": 1926
+    "downloads": 1928
   },
   {
     "name": "custom-share-domain-plugin",
@@ -121,7 +121,24 @@
     "readme": {
       "default": "README.md"
     },
-    "downloads": 1471
+    "downloads": 1473
+  },
+  {
+    "name": "blinko-simple-styles",
+    "author": "madcativ",
+    "url": "https://github.com/madcativ/blinko-simple-styles",
+    "version": "1.0.0",
+    "minAppVersion": "0.0.0",
+    "displayName": {
+      "default": "Blinko Simple Styles"
+    },
+    "description": {
+      "default": "Plugin for Blinko for changing web app's styles and CSS variables."
+    },
+    "readme": {
+      "default": "README.md"
+    },
+    "downloads": 2
   },
   {
     "name": "blinko-toolbar-map",
@@ -141,7 +158,7 @@
       "default": "README.md",
       "zh": "README_zh.md"
     },
-    "downloads": 1932
+    "downloads": 1936
   },
   {
     "name": "blinko-image-compressor",
@@ -161,6 +178,6 @@
       "default": "README.md",
       "zh": "README_zh.md"
     },
-    "downloads": 1733
+    "downloads": 1734
   }
 ]
