@@ -1,5 +1,25 @@
 [
   {
+    "name": "ai-comment",
+    "author": "blinko-offical",
+    "url": "https://github.com/quickflash2/blinko-ai-comments",
+    "version": "1.0.0",
+    "minAppVersion": "0.0.0",
+    "displayName": {
+      "default": "AI Comment",
+      "zh": "AI评论"
+    },
+    "description": {
+      "default": "Add AI comment to individual notes from right-click menu",
+      "zh": "从右键菜单为单个闪念添加AI评论"
+    },
+    "readme": {
+      "default": "README.md",
+      "zh": "README_zh.md"
+    },
+    "downloads": 1
+  },
+  {
     "name": "blinko-plugin-demo",
     "author": "blinko-offical",
     "url": "https://github.com/blinko-space/blinko-plugin-template",
@@ -17,7 +37,7 @@
       "default": "README.md",
       "zh": "README_zh.md"
     },
-    "downloads": 780
+    "downloads": 786
   },
   {
     "name": "blinko-tag-clean",
@@ -37,7 +57,7 @@
       "default": "README.md",
       "zh": "README_zh.md"
     },
-    "downloads": 1579
+    "downloads": 1585
   },
   {
     "name": "generate-share-image",
@@ -57,7 +77,7 @@
       "default": "README.md",
       "zh": "README_zh.md"
     },
-    "downloads": 2090
+    "downloads": 2102
   },
   {
     "name": "custom-share-domain-plugin",
@@ -77,7 +97,7 @@
       "default": "README.md",
       "zh": "README_zh.md"
     },
-    "downloads": 427
+    "downloads": 440
   },
   {
     "name": "blinko-plugin-rtl-support",
@@ -102,7 +122,7 @@
       "zh": "README_zh.md",
       "he": "README_he.md"
     },
-    "downloads": 251
+    "downloads": 254
   },
   {
     "name": "blinko-copy-private-link",
@@ -121,7 +141,7 @@
     "readme": {
       "default": "README.md"
     },
-    "downloads": 1588
+    "downloads": 1596
   },
   {
     "name": "blinko-simple-styles",
@@ -138,7 +158,7 @@
     "readme": {
       "default": "README.md"
     },
-    "downloads": 76
+    "downloads": 79
   },
   {
     "name": "blinko-toolbar-map",
@@ -158,7 +178,7 @@
       "default": "README.md",
       "zh": "README_zh.md"
     },
-    "downloads": 2148
+    "downloads": 2162
   },
   {
     "name": "blinko-image-compressor",
@@ -178,6 +198,6 @@
       "default": "README.md",
       "zh": "README_zh.md"
     },
-    "downloads": 1920
+    "downloads": 1929
   }
 ]
