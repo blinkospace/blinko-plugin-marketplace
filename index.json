@@ -17,7 +17,7 @@
       "default": "README.md",
       "zh": "README_zh.md"
     },
-    "downloads": 602
+    "downloads": 614
   },
   {
     "name": "blinko-plugin-demo",
@@ -37,7 +37,7 @@
       "default": "README.md",
       "zh": "README_zh.md"
     },
-    "downloads": 980
+    "downloads": 982
   },
   {
     "name": "blinko-tag-clean",
@@ -57,7 +57,7 @@
       "default": "README.md",
       "zh": "README_zh.md"
     },
-    "downloads": 1932
+    "downloads": 1941
   },
   {
     "name": "generate-share-image",
@@ -77,7 +77,7 @@
       "default": "README.md",
       "zh": "README_zh.md"
     },
-    "downloads": 2533
+    "downloads": 2541
   },
   {
     "name": "custom-share-domain-plugin",
@@ -97,7 +97,7 @@
       "default": "README.md",
       "zh": "README_zh.md"
     },
-    "downloads": 671
+    "downloads": 676
   },
   {
     "name": "blinko-plugin-rtl-support",
@@ -122,7 +122,7 @@
       "zh": "README_zh.md",
       "he": "README_he.md"
     },
-    "downloads": 435
+    "downloads": 438
   },
   {
     "name": "blinko-copy-private-link",
@@ -141,7 +141,7 @@
     "readme": {
       "default": "README.md"
     },
-    "downloads": 1882
+    "downloads": 1886
   },
   {
     "name": "blinko-simple-styles",
@@ -158,7 +158,7 @@
     "readme": {
       "default": "README.md"
     },
-    "downloads": 311
+    "downloads": 320
   },
   {
     "name": "blinko-toolbar-map",
@@ -178,7 +178,7 @@
       "default": "README.md",
       "zh": "README_zh.md"
     },
-    "downloads": 2696
+    "downloads": 2707
   },
   {
     "name": "blinko-image-compressor",
@@ -198,6 +198,6 @@
       "default": "README.md",
       "zh": "README_zh.md"
     },
-    "downloads": 2406
+    "downloads": 2416
   }
 ]
