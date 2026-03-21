@@ -17,7 +17,7 @@
       "default": "README.md",
       "zh": "README_zh.md"
     },
-    "downloads": 2642
+    "downloads": 2643
   },
   {
     "name": "ai-comment",
@@ -37,7 +37,7 @@
       "default": "README.md",
       "zh": "README_zh.md"
     },
-    "downloads": 850
+    "downloads": 851
   },
   {
     "name": "blinko-plugin-rtl-support",
@@ -102,7 +102,7 @@
       "default": "README.md",
       "zh": "README_zh.md"
     },
-    "downloads": 2092
+    "downloads": 2093
   },
   {
     "name": "blinko-simple-styles",
@@ -139,7 +139,7 @@
       "default": "README.md",
       "zh": "README_zh.md"
     },
-    "downloads": 2945
+    "downloads": 2946
   },
   {
     "name": "generate-share-image",
