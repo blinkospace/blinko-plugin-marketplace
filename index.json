@@ -17,7 +17,7 @@
       "default": "README.md",
       "zh": "README_zh.md"
     },
-    "downloads": 2645
+    "downloads": 2646
   },
   {
     "name": "ai-comment",
@@ -37,13 +37,13 @@
       "default": "README.md",
       "zh": "README_zh.md"
     },
-    "downloads": 852
+    "downloads": 855
   },
   {
     "name": "blinko-plugin-rtl-support",
     "author": "Daniel-OS01",
     "url": "https://github.com/Daniel-OS01/blinko-rtl-support-plugin",
-    "version": "2.0.6",
+    "version": "2.2.0",
     "minAppVersion": "0.0.0",
     "displayName": {
       "default": "RTL Language Support",
@@ -62,6 +62,19 @@
       "zh": "README_zh.md",
       "he": "README_he.md"
     },
+    "repository": "https://github.com/Daniel-OS01/blinko-rtl-support-plugin",
+    "homepage": "https://github.com/Daniel-OS01/blinko-rtl-support-plugin",
+    "keywords": [
+      "blinko",
+      "plugin",
+      "rtl",
+      "hebrew",
+      "arabic",
+      "persian",
+      "i18n",
+      "bidi"
+    ],
+    "license": "MIT",
     "downloads": 508
   },
   {
@@ -102,7 +115,7 @@
       "default": "README.md",
       "zh": "README_zh.md"
     },
-    "downloads": 2094
+    "downloads": 2096
   },
   {
     "name": "blinko-simple-styles",
@@ -139,7 +152,7 @@
       "default": "README.md",
       "zh": "README_zh.md"
     },
-    "downloads": 2948
+    "downloads": 2949
   },
   {
     "name": "generate-share-image",
