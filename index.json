@@ -17,7 +17,7 @@
       "default": "README.md",
       "zh": "README_zh.md"
     },
-    "downloads": 763
+    "downloads": 765
   },
   {
     "name": "blinko-copy-private-link",
@@ -36,7 +36,7 @@
     "readme": {
       "default": "README.md"
     },
-    "downloads": 2001
+    "downloads": 2005
   },
   {
     "name": "blinko-simple-styles",
@@ -53,7 +53,7 @@
     "readme": {
       "default": "README.md"
     },
-    "downloads": 447
+    "downloads": 448
   },
   {
     "name": "blinko-tag-clean",
@@ -73,7 +73,7 @@
       "default": "README.md",
       "zh": "README_zh.md"
     },
-    "downloads": 2100
+    "downloads": 2103
   },
   {
     "name": "generate-share-image",
@@ -93,7 +93,7 @@
       "default": "README.md",
       "zh": "README_zh.md"
     },
-    "downloads": 2758
+    "downloads": 2764
   },
   {
     "name": "blinko-toolbar-map",
@@ -113,7 +113,7 @@
       "default": "README.md",
       "zh": "README_zh.md"
     },
-    "downloads": 2954
+    "downloads": 2960
   },
   {
     "name": "ai-comment",
@@ -133,7 +133,7 @@
       "default": "README.md",
       "zh": "README_zh.md"
     },
-    "downloads": 857
+    "downloads": 861
   },
   {
     "name": "blinko-plugin-demo",
@@ -159,7 +159,7 @@
     "name": "blinko-plugin-rtl-support",
     "author": "Daniel-OS01",
     "url": "https://github.com/Daniel-OS01/blinko-rtl-support-plugin",
-    "version": "3.0.3",
+    "version": "3.0.4",
     "minAppVersion": "0.0.0",
     "displayName": {
       "default": "RTL Language Support",
@@ -191,7 +191,7 @@
       "bidi"
     ],
     "license": "MIT",
-    "downloads": 504
+    "downloads": 510
   },
   {
     "name": "blinko-image-compressor",
@@ -211,6 +211,6 @@
       "default": "README.md",
       "zh": "README_zh.md"
     },
-    "downloads": 2650
+    "downloads": 2656
   }
 ]
