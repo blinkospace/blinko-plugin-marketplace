@@ -35,7 +35,7 @@
       "bidi"
     ],
     "license": "MIT",
-    "downloads": 373
+    "downloads": 374
   },
   {
     "name": "blinko-copy-private-link",
@@ -74,7 +74,7 @@
       "default": "README.md",
       "zh": "README_zh.md"
     },
-    "downloads": 3225
+    "downloads": 3226
   },
   {
     "name": "custom-share-domain-plugin",
@@ -151,7 +151,7 @@
       "default": "README.md",
       "zh": "README_zh.md"
     },
-    "downloads": 1465
+    "downloads": 1468
   },
   {
     "name": "generate-share-image",
@@ -171,7 +171,7 @@
       "default": "README.md",
       "zh": "README_zh.md"
     },
-    "downloads": 3254
+    "downloads": 3256
   },
   {
     "name": "blinko-tag-clean",
@@ -211,6 +211,6 @@
       "default": "README.md",
       "zh": "README_zh.md"
     },
-    "downloads": 3565
+    "downloads": 3568
   }
 ]
