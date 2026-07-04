@@ -114,7 +114,7 @@
       "default": "README.md",
       "zh": "README_zh.md"
     },
-    "downloads": 1200
+    "downloads": 1201
   },
   {
     "name": "blinko-simple-styles",
@@ -131,7 +131,7 @@
     "readme": {
       "default": "README.md"
     },
-    "downloads": 899
+    "downloads": 901
   },
   {
     "name": "ai-comment",
@@ -171,7 +171,7 @@
       "default": "README.md",
       "zh": "README_zh.md"
     },
-    "downloads": 3273
+    "downloads": 3274
   },
   {
     "name": "blinko-tag-clean",
@@ -211,6 +211,6 @@
       "default": "README.md",
       "zh": "README_zh.md"
     },
-    "downloads": 3592
+    "downloads": 3593
   }
 ]
