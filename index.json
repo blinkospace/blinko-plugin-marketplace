@@ -35,7 +35,7 @@
       "bidi"
     ],
     "license": "MIT",
-    "downloads": 393
+    "downloads": 394
   },
   {
     "name": "blinko-copy-private-link",
@@ -54,7 +54,7 @@
     "readme": {
       "default": "README.md"
     },
-    "downloads": 2334
+    "downloads": 2335
   },
   {
     "name": "blinko-image-compressor",
@@ -74,7 +74,7 @@
       "default": "README.md",
       "zh": "README_zh.md"
     },
-    "downloads": 3263
+    "downloads": 3265
   },
   {
     "name": "custom-share-domain-plugin",
@@ -94,7 +94,7 @@
       "default": "README.md",
       "zh": "README_zh.md"
     },
-    "downloads": 997
+    "downloads": 1001
   },
   {
     "name": "blinko-plugin-demo",
@@ -114,7 +114,7 @@
       "default": "README.md",
       "zh": "README_zh.md"
     },
-    "downloads": 1211
+    "downloads": 1212
   },
   {
     "name": "blinko-simple-styles",
@@ -131,27 +131,7 @@
     "readme": {
       "default": "README.md"
     },
-    "downloads": 913
-  },
-  {
-    "name": "ai-comment",
-    "author": "blinko-offical",
-    "url": "https://github.com/quickflash2/blinko-ai-comments",
-    "version": "1.0.0",
-    "minAppVersion": "0.0.0",
-    "displayName": {
-      "default": "AI Comment",
-      "zh": "AI评论"
-    },
-    "description": {
-      "default": "Add AI comment to individual notes from right-click menu",
-      "zh": "从右键菜单为单个闪念添加AI评论"
-    },
-    "readme": {
-      "default": "README.md",
-      "zh": "README_zh.md"
-    },
-    "downloads": 1499
+    "downloads": 914
   },
   {
     "name": "generate-share-image",
@@ -171,7 +151,7 @@
       "default": "README.md",
       "zh": "README_zh.md"
     },
-    "downloads": 3291
+    "downloads": 3292
   },
   {
     "name": "blinko-tag-clean",
@@ -191,7 +171,7 @@
       "default": "README.md",
       "zh": "README_zh.md"
     },
-    "downloads": 2662
+    "downloads": 2663
   },
   {
     "name": "blinko-toolbar-map",
@@ -211,6 +191,6 @@
       "default": "README.md",
       "zh": "README_zh.md"
     },
-    "downloads": 3614
+    "downloads": 3618
   }
 ]
