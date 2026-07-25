@@ -17,46 +17,27 @@
       "default": "README.md",
       "zh": "README_zh.md"
     },
-    "downloads": 1225
+    "downloads": 1251
   },
   {
-    "name": "blinko-copy-private-link",
-    "author": "blinko-offical",
-    "url": "https://github.com/blinko-space/blinko-plugin-copy-private-link",
-    "version": "0.0.2",
-    "minAppVersion": "0.39.0",
-    "displayName": {
-      "default": "Copy Private Link",
-      "zh": "右键复制私有链接"
-    },
-    "description": {
-      "default": "add right click menu to copy private link",
-      "zh": "增加右键菜单，用于复制私有链接"
-    },
-    "readme": {
-      "default": "README.md"
-    },
-    "downloads": 2559
-  },
-  {
-    "name": "generate-share-image",
-    "author": "blinko-offical",
-    "url": "https://github.com/blinko-space/generate-share-image",
-    "version": "0.0.6",
+    "name": "custom-share-domain-plugin",
+    "author": "Manus",
+    "url": "https://github.com/xiaobaiweinuli/custom-share-domain-plugin",
+    "version": "1.0.0",
     "minAppVersion": "0.0.0",
     "displayName": {
-      "default": "Generate share image",
-      "zh": "生成分享图片"
+      "default": "Custom Share Domain",
+      "zh": "自定义分享域名"
     },
     "description": {
-      "default": "Use for right-click notes to generate sharing diagrams.",
-      "zh": "用于右键笔记生成分享图"
+      "default": "A Blinko plugin that allows users to customize share link domains with multi-domain management, domain selection, and default domain settings.",
+      "zh": "一个允许用户自定义分享链接域名的 Blinko 插件，支持多域名管理、域名选择和默认域名设置。"
     },
     "readme": {
       "default": "README.md",
       "zh": "README_zh.md"
     },
-    "downloads": 3344
+    "downloads": 1110
   },
   {
     "name": "blinko-image-compressor",
@@ -76,64 +57,7 @@
       "default": "README.md",
       "zh": "README_zh.md"
     },
-    "downloads": 3488
-  },
-  {
-    "name": "blinko-toolbar-map",
-    "author": "blinko-offical",
-    "url": "https://github.com/blinko-space/blinko-toolbar-map",
-    "version": "0.0.1",
-    "minAppVersion": "0.45.3",
-    "displayName": {
-      "default": "Blinko Toolbar Map",
-      "zh": "Blinko 工具栏地图"
-    },
-    "description": {
-      "default": "This is a blinko plugin for map, you can use it to insert map location points.",
-      "zh": "这是一个blinko插件，你可以使用它来插入地图定位点"
-    },
-    "readme": {
-      "default": "README.md",
-      "zh": "README_zh.md"
-    },
-    "downloads": 3932
-  },
-  {
-    "name": "ai-comment",
-    "author": "blinko-offical",
-    "url": "https://github.com/quickflash2/blinko-ai-comments",
-    "version": "1.0.0",
-    "minAppVersion": "0.0.0",
-    "displayName": {
-      "default": "AI Comment",
-      "zh": "AI评论"
-    },
-    "description": {
-      "default": "Add AI comment to individual notes from right-click menu",
-      "zh": "从右键菜单为单个闪念添加AI评论"
-    },
-    "readme": {
-      "default": "README.md",
-      "zh": "README_zh.md"
-    },
-    "downloads": 1731
-  },
-  {
-    "name": "blinko-simple-styles",
-    "author": "madcativ",
-    "url": "https://github.com/madcativ/blinko-simple-styles",
-    "version": "1.0.0",
-    "minAppVersion": "0.0.0",
-    "displayName": {
-      "default": "Blinko Simple Styles"
-    },
-    "description": {
-      "default": "Plugin for Blinko for changing web app's styles and CSS variables."
-    },
-    "readme": {
-      "default": "README.md"
-    },
-    "downloads": 1218
+    "downloads": 3507
   },
   {
     "name": "blinko-tag-clean",
@@ -153,7 +77,46 @@
       "default": "README.md",
       "zh": "README_zh.md"
     },
-    "downloads": 2887
+    "downloads": 2905
+  },
+  {
+    "name": "ai-comment",
+    "author": "blinko-offical",
+    "url": "https://github.com/quickflash2/blinko-ai-comments",
+    "version": "1.0.0",
+    "minAppVersion": "0.0.0",
+    "displayName": {
+      "default": "AI Comment",
+      "zh": "AI评论"
+    },
+    "description": {
+      "default": "Add AI comment to individual notes from right-click menu",
+      "zh": "从右键菜单为单个闪念添加AI评论"
+    },
+    "readme": {
+      "default": "README.md",
+      "zh": "README_zh.md"
+    },
+    "downloads": 1754
+  },
+  {
+    "name": "blinko-copy-private-link",
+    "author": "blinko-offical",
+    "url": "https://github.com/blinko-space/blinko-plugin-copy-private-link",
+    "version": "0.0.2",
+    "minAppVersion": "0.39.0",
+    "displayName": {
+      "default": "Copy Private Link",
+      "zh": "右键复制私有链接"
+    },
+    "description": {
+      "default": "add right click menu to copy private link",
+      "zh": "增加右键菜单，用于复制私有链接"
+    },
+    "readme": {
+      "default": "README.md"
+    },
+    "downloads": 2580
   },
   {
     "name": "blinko-plugin-rtl-support",
@@ -191,26 +154,63 @@
       "bidi"
     ],
     "license": "MIT",
-    "downloads": 349
+    "downloads": 355
   },
   {
-    "name": "custom-share-domain-plugin",
-    "author": "Manus",
-    "url": "https://github.com/xiaobaiweinuli/custom-share-domain-plugin",
+    "name": "blinko-simple-styles",
+    "author": "madcativ",
+    "url": "https://github.com/madcativ/blinko-simple-styles",
     "version": "1.0.0",
     "minAppVersion": "0.0.0",
     "displayName": {
-      "default": "Custom Share Domain",
-      "zh": "自定义分享域名"
+      "default": "Blinko Simple Styles"
     },
     "description": {
-      "default": "A Blinko plugin that allows users to customize share link domains with multi-domain management, domain selection, and default domain settings.",
-      "zh": "一个允许用户自定义分享链接域名的 Blinko 插件，支持多域名管理、域名选择和默认域名设置。"
+      "default": "Plugin for Blinko for changing web app's styles and CSS variables."
+    },
+    "readme": {
+      "default": "README.md"
+    },
+    "downloads": 1237
+  },
+  {
+    "name": "blinko-toolbar-map",
+    "author": "blinko-offical",
+    "url": "https://github.com/blinko-space/blinko-toolbar-map",
+    "version": "0.0.1",
+    "minAppVersion": "0.45.3",
+    "displayName": {
+      "default": "Blinko Toolbar Map",
+      "zh": "Blinko 工具栏地图"
+    },
+    "description": {
+      "default": "This is a blinko plugin for map, you can use it to insert map location points.",
+      "zh": "这是一个blinko插件，你可以使用它来插入地图定位点"
     },
     "readme": {
       "default": "README.md",
       "zh": "README_zh.md"
     },
-    "downloads": 1092
+    "downloads": 3962
+  },
+  {
+    "name": "generate-share-image",
+    "author": "blinko-offical",
+    "url": "https://github.com/blinko-space/generate-share-image",
+    "version": "0.0.6",
+    "minAppVersion": "0.0.0",
+    "displayName": {
+      "default": "Generate share image",
+      "zh": "生成分享图片"
+    },
+    "description": {
+      "default": "Use for right-click notes to generate sharing diagrams.",
+      "zh": "用于右键笔记生成分享图"
+    },
+    "readme": {
+      "default": "README.md",
+      "zh": "README_zh.md"
+    },
+    "downloads": 3359
   }
 ]
