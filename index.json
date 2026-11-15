@@ -1,81 +1,5 @@
 [
   {
-    "name": "blinko-tag-clean",
-    "author": "VictorHong",
-    "url": "https://github.com/redisread/blinko-tag-clean",
-    "version": "1.0.0",
-    "minAppVersion": "0.0.0",
-    "displayName": {
-      "default": "Tag Cleaner",
-      "zh": "右键标签清理"
-    },
-    "description": {
-      "default": "A plugin that helps you clean tags from notes with right-click menu support.",
-      "zh": "一个帮助你通过右键菜单快速清理笔记标签的插件。"
-    },
-    "readme": {
-      "default": "README.md",
-      "zh": "README_zh.md"
-    },
-    "downloads": 3484
-  },
-  {
-    "name": "blinko-copy-private-link",
-    "author": "blinko-offical",
-    "url": "https://github.com/blinko-space/blinko-plugin-copy-private-link",
-    "version": "0.0.2",
-    "minAppVersion": "0.39.0",
-    "displayName": {
-      "default": "Copy Private Link",
-      "zh": "右键复制私有链接"
-    },
-    "description": {
-      "default": "add right click menu to copy private link",
-      "zh": "增加右键菜单，用于复制私有链接"
-    },
-    "readme": {
-      "default": "README.md"
-    },
-    "downloads": 3596
-  },
-  {
-    "name": "custom-share-domain-plugin",
-    "author": "Manus",
-    "url": "https://github.com/xiaobaiweinuli/custom-share-domain-plugin",
-    "version": "1.0.0",
-    "minAppVersion": "0.0.0",
-    "displayName": {
-      "default": "Custom Share Domain",
-      "zh": "自定义分享域名"
-    },
-    "description": {
-      "default": "A Blinko plugin that allows users to customize share link domains with multi-domain management, domain selection, and default domain settings.",
-      "zh": "一个允许用户自定义分享链接域名的 Blinko 插件，支持多域名管理、域名选择和默认域名设置。"
-    },
-    "readme": {
-      "default": "README.md",
-      "zh": "README_zh.md"
-    },
-    "downloads": 2322
-  },
-  {
-    "name": "blinko-simple-styles",
-    "author": "madcativ",
-    "url": "https://github.com/madcativ/blinko-simple-styles",
-    "version": "1.0.0",
-    "minAppVersion": "0.0.0",
-    "displayName": {
-      "default": "Blinko Simple Styles"
-    },
-    "description": {
-      "default": "Plugin for Blinko for changing web app's styles and CSS variables."
-    },
-    "readme": {
-      "default": "README.md"
-    },
-    "downloads": 2522
-  },
-  {
     "name": "blinko-image-compressor",
     "author": "jooooody",
     "url": "https://github.com/GreenHatHG/blinko-image-compressor",
@@ -93,7 +17,7 @@
       "default": "README.md",
       "zh": "README_zh.md"
     },
-    "downloads": 4883
+    "downloads": 4916
   },
   {
     "name": "ai-comment",
@@ -113,7 +37,46 @@
       "default": "README.md",
       "zh": "README_zh.md"
     },
-    "downloads": 3062
+    "downloads": 3090
+  },
+  {
+    "name": "blinko-copy-private-link",
+    "author": "blinko-offical",
+    "url": "https://github.com/blinko-space/blinko-plugin-copy-private-link",
+    "version": "0.0.2",
+    "minAppVersion": "0.39.0",
+    "displayName": {
+      "default": "Copy Private Link",
+      "zh": "右键复制私有链接"
+    },
+    "description": {
+      "default": "add right click menu to copy private link",
+      "zh": "增加右键菜单，用于复制私有链接"
+    },
+    "readme": {
+      "default": "README.md"
+    },
+    "downloads": 3624
+  },
+  {
+    "name": "blinko-plugin-demo",
+    "author": "blinko-offical",
+    "url": "https://github.com/blinko-space/blinko-plugin-template",
+    "version": "0.0.4",
+    "minAppVersion": "0.0.0",
+    "displayName": {
+      "default": "Blinko plugin demo",
+      "zh": "Blinko插件示例"
+    },
+    "description": {
+      "default": "This is a blinko plugin demo, you can use it as a template to create your own plugin.",
+      "zh": "这是一个blinko插件示例，你可以使用它作为模板来创建自己的插件。"
+    },
+    "readme": {
+      "default": "README.md",
+      "zh": "README_zh.md"
+    },
+    "downloads": 2398
   },
   {
     "name": "blinko-plugin-rtl-support",
@@ -151,47 +114,7 @@
       "bidi"
     ],
     "license": "MIT",
-    "downloads": 1128
-  },
-  {
-    "name": "blinko-plugin-demo",
-    "author": "blinko-offical",
-    "url": "https://github.com/blinko-space/blinko-plugin-template",
-    "version": "0.0.4",
-    "minAppVersion": "0.0.0",
-    "displayName": {
-      "default": "Blinko plugin demo",
-      "zh": "Blinko插件示例"
-    },
-    "description": {
-      "default": "This is a blinko plugin demo, you can use it as a template to create your own plugin.",
-      "zh": "这是一个blinko插件示例，你可以使用它作为模板来创建自己的插件。"
-    },
-    "readme": {
-      "default": "README.md",
-      "zh": "README_zh.md"
-    },
-    "downloads": 2371
-  },
-  {
-    "name": "blinko-toolbar-map",
-    "author": "blinko-offical",
-    "url": "https://github.com/blinko-space/blinko-toolbar-map",
-    "version": "0.0.1",
-    "minAppVersion": "0.45.3",
-    "displayName": {
-      "default": "Blinko Toolbar Map",
-      "zh": "Blinko 工具栏地图"
-    },
-    "description": {
-      "default": "This is a blinko plugin for map, you can use it to insert map location points.",
-      "zh": "这是一个blinko插件，你可以使用它来插入地图定位点"
-    },
-    "readme": {
-      "default": "README.md",
-      "zh": "README_zh.md"
-    },
-    "downloads": 5241
+    "downloads": 1153
   },
   {
     "name": "generate-share-image",
@@ -211,6 +134,83 @@
       "default": "README.md",
       "zh": "README_zh.md"
     },
-    "downloads": 4693
+    "downloads": 4722
+  },
+  {
+    "name": "custom-share-domain-plugin",
+    "author": "Manus",
+    "url": "https://github.com/xiaobaiweinuli/custom-share-domain-plugin",
+    "version": "1.0.0",
+    "minAppVersion": "0.0.0",
+    "displayName": {
+      "default": "Custom Share Domain",
+      "zh": "自定义分享域名"
+    },
+    "description": {
+      "default": "A Blinko plugin that allows users to customize share link domains with multi-domain management, domain selection, and default domain settings.",
+      "zh": "一个允许用户自定义分享链接域名的 Blinko 插件，支持多域名管理、域名选择和默认域名设置。"
+    },
+    "readme": {
+      "default": "README.md",
+      "zh": "README_zh.md"
+    },
+    "downloads": 2349
+  },
+  {
+    "name": "blinko-toolbar-map",
+    "author": "blinko-offical",
+    "url": "https://github.com/blinko-space/blinko-toolbar-map",
+    "version": "0.0.1",
+    "minAppVersion": "0.45.3",
+    "displayName": {
+      "default": "Blinko Toolbar Map",
+      "zh": "Blinko 工具栏地图"
+    },
+    "description": {
+      "default": "This is a blinko plugin for map, you can use it to insert map location points.",
+      "zh": "这是一个blinko插件，你可以使用它来插入地图定位点"
+    },
+    "readme": {
+      "default": "README.md",
+      "zh": "README_zh.md"
+    },
+    "downloads": 5270
+  },
+  {
+    "name": "blinko-tag-clean",
+    "author": "VictorHong",
+    "url": "https://github.com/redisread/blinko-tag-clean",
+    "version": "1.0.0",
+    "minAppVersion": "0.0.0",
+    "displayName": {
+      "default": "Tag Cleaner",
+      "zh": "右键标签清理"
+    },
+    "description": {
+      "default": "A plugin that helps you clean tags from notes with right-click menu support.",
+      "zh": "一个帮助你通过右键菜单快速清理笔记标签的插件。"
+    },
+    "readme": {
+      "default": "README.md",
+      "zh": "README_zh.md"
+    },
+    "downloads": 3512
+  },
+  {
+    "name": "blinko-simple-styles",
+    "author": "madcativ",
+    "url": "https://github.com/madcativ/blinko-simple-styles",
+    "version": "1.0.0",
+    "minAppVersion": "0.0.0",
+    "displayName": {
+      "default": "Blinko Simple Styles"
+    },
+    "description": {
+      "default": "Plugin for Blinko for changing web app's styles and CSS variables."
+    },
+    "readme": {
+      "default": "README.md"
+    },
+    "downloads": 2551
   }
 ]
