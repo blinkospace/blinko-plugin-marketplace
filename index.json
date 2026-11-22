@@ -14,13 +14,13 @@
     "readme": {
       "default": "README.md"
     },
-    "downloads": 2631
+    "downloads": 2637
   },
   {
     "name": "blinko-plugin-rtl-support",
     "author": "Daniel-OS01",
     "url": "https://github.com/Daniel-OS01/blinko-rtl-support-plugin",
-    "version": "3.2.7",
+    "version": "3.2.8",
     "minAppVersion": "0.0.0",
     "displayName": {
       "default": "RTL Language Support",
@@ -52,7 +52,7 @@
       "bidi"
     ],
     "license": "MIT",
-    "downloads": 1231
+    "downloads": 1292
   },
   {
     "name": "blinko-image-compressor",
@@ -72,7 +72,7 @@
       "default": "README.md",
       "zh": "README_zh.md"
     },
-    "downloads": 5011
+    "downloads": 5018
   },
   {
     "name": "ai-comment",
@@ -92,7 +92,7 @@
       "default": "README.md",
       "zh": "README_zh.md"
     },
-    "downloads": 3173
+    "downloads": 3178
   },
   {
     "name": "blinko-copy-private-link",
@@ -111,7 +111,7 @@
     "readme": {
       "default": "README.md"
     },
-    "downloads": 3704
+    "downloads": 3709
   },
   {
     "name": "custom-share-domain-plugin",
@@ -131,7 +131,7 @@
       "default": "README.md",
       "zh": "README_zh.md"
     },
-    "downloads": 2425
+    "downloads": 2430
   },
   {
     "name": "generate-share-image",
@@ -151,7 +151,7 @@
       "default": "README.md",
       "zh": "README_zh.md"
     },
-    "downloads": 4808
+    "downloads": 4811
   },
   {
     "name": "blinko-tag-clean",
@@ -171,7 +171,7 @@
       "default": "README.md",
       "zh": "README_zh.md"
     },
-    "downloads": 3587
+    "downloads": 3593
   },
   {
     "name": "blinko-plugin-demo",
@@ -191,7 +191,7 @@
       "default": "README.md",
       "zh": "README_zh.md"
     },
-    "downloads": 2475
+    "downloads": 2478
   },
   {
     "name": "blinko-toolbar-map",
@@ -211,6 +211,6 @@
       "default": "README.md",
       "zh": "README_zh.md"
     },
-    "downloads": 5364
+    "downloads": 5371
   }
 ]
